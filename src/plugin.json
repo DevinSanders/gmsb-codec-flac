@@ -1,0 +1,10 @@
+{
+  "publisher": "github.DevinSanders",
+  "id": "codec.flac",
+  "name": "FLAC Codec",
+  "version": "1.0.0",
+  "author": "Devin Sanders",
+  "description": "Adds .flac playback support to Game Master Sound Board via BunLabs.NAudio.Flac.",
+  "entryDll": "FlacCodecPlugin.dll",
+  "isTheme": false
+}
