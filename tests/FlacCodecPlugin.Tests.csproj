@@ -16,7 +16,7 @@
          with ExcludeAssets="runtime" (the host owns the live instances).
          The test host has no host to borrow them from, so it needs the
          real runtime assemblies. -->
-    <PackageReference Include="NAudio.Core" Version="2.3.0" />
+    <PackageReference Include="NAudio.Core" Version="3.0.1" />
     <PackageReference Include="SoundBoard.PluginApi" Version="1.0.0-beta.1" />
 
     <PackageReference Include="xunit.v3" Version="3.2.2" />
